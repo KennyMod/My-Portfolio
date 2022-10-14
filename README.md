@@ -20,50 +20,7 @@ No matter how small, we learn everyday. Through this project, I was able to lear
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Spectral Gardens:** https://spectral-gardens.netlify.app/
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Doggy Inn DayCare:** https://doggyinndaycare.netlify.app/
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
-<table bordercolor="#66b2b2">
-  
-  
-  <tr>
-      <td width="50%" valign="top">
-      <h3 align="center">Spectral Gardens</h3>
-        <br />
-        <a target="_blank" href="https://american-citizenship-test.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/101214978/177057652-c6cd5942-b8b0-4d51-948b-a84079286ee0.jpeg" width="100%" alt="homepage"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/brendondsouza/US-citizenship-test-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://american-citizenship-test.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>An API built from scratch to help other dreamers like me get thier U.S. Citizenship!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Doggy Inn DayCare</h3>
-      <br />
-        <a target="_blank" href="https://doggyinndaycare.netlify.app/">
-          <img src="https://github.com/brendondsouza/Grocery-buddy-react/blob/main/grocery-buddy.gif" width="100%" alt="my portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/brendondsouza/Grocery-buddy-react" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://yourgrocerybuddy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Your grocery buddy which can help make and save your shopping lists!</p>
-    </td>
-  </tr>
-</table>
